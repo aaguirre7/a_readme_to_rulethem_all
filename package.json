@@ -1,0 +1,23 @@
+{
+  "name": "readme_gen_v1",
+  "version": "1.0.0",
+  "description": "Readme Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abraham aguirre",
+  "license": "MIT",
+  "dependencies": {
+    "enquirer": "^2.3.6",
+    "inquirer": "^6.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaguirre7/a_readme_to_rulethem_all.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aaguirre7/a_readme_to_rulethem_all/issues"
+  },
+  "homepage": "https://github.com/aaguirre7/a_readme_to_rulethem_all#readme"
+}
